@@ -1,4 +1,5 @@
-![Screenshot 2025-05-03 222604](https://github.com/user-attachments/assets/a6b46e26-fd91-49d8-ab14-66d018b168a0)# ✅ To-Do App v2 – Updated
+![Screenshot 2025-05-03 222604](https://github.com/user-attachments/assets/a6b46e26-fd91-49d8-ab14-66d018b168a0)
+**✅ To-Do App v2 – Updated**
 
 🌐 **Live Demo**: [to-do-web-app-v2-updated.vercel.app](https://to-do-web-app-v2-updated.vercel.app)
 
